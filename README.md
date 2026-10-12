@@ -3,7 +3,7 @@
 ## Executive Summary
 This case study analyzes smart device usage data to understand daily activity habits and sleep tracking behavior. The goal is to deliver practical, data-backed marketing strategies to help **Bellabeat** grow its brand and better connect with users.
 
-🔗 **[View Interactive Tableau Dashboard]([PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/authoring/Bellabeatsmartdevicecasestudy/Dashboard1/Logged%20Daily%20Activity%20Vs%20Total%20Sleep#1))**
+🔗 **[View Interactive Tableau Dashboard](https://public.tableau.com/authoring/Bellabeatsmartdevicecasestudy/Dashboard1/Logged%20Daily%20Activity%20Vs%20Total%20Sleep#1)**
 
 ---
 
