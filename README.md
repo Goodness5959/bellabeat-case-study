@@ -31,6 +31,6 @@ This case study analyzes smart device usage data to understand daily activity ha
 ---
 
 ## 🛠️ Tools Used & Methods
-* **Data Analysis & Processing:** Python / SQL / Excel
-* **Data Visualization:** Tableau Public
-* **Project Documentation:** GitHub Markdown
+- **Data Analysis & Processing:** Python / SQL / Excel
+- **Data Visualization:** Tableau Public
+- **Project Documentation:** GitHub Markdown
